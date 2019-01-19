@@ -20,7 +20,7 @@ All keys behave similar on Windows as they the would on macOS, with one exceptio
 #### Problem
 The ["old" Microsoft Remote Desktop App for macOS](https://itunes.apple.com/de/app/microsoft-remote-desktop-8/id715768417?l=en&mt=12) seems to swap the keys VK_OEM5 (`[^]`) and VK_OEM_102 (`[<]`) when connecting to a remote Windows host.
 #### Solution
-The ["new" Microsoft Remote Desktop **Beta** App for macOS](http://go.microsoft.com/fwlink/?LinkID=619698&clcid=0x409) doesn't seem to have this issue. I recommend to use it instead.
+The ["new" Microsoft Remote Desktop **Beta** App for macOS](http://go.microsoft.com/fwlink/?LinkID=619698&clcid=0x409) and [Microsoft Remote Desktop 10 App for macOS](https://itunes.apple.com/de/app/microsoft-remote-desktop-10/id1295203466?l=en&mt=12) don't seem to have this issue. I recommend to use one of them instead.
 
 
 ## edit & build
