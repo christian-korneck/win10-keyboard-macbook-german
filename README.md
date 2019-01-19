@@ -1,6 +1,6 @@
 # Windows keyboard layout "German (Apple Macbook)"
 
-This is a MS Windows keyboard layout for Apple Macbook keyboards. Useful when running Windows on a Macbook (vm, bootcamp) or when connecting from a Mac to a remote Windows system via rdp, vnc, etc.
+This is a MS Windows keyboard layout for Apple Macbook keyboards with German `QWERTZ` layout. Useful when running Windows on a Macbook (vm, bootcamp) or when connecting from a Mac to a remote Windows system via rdp, vnc, etc.
 
 ![apple-macbook-keyboard-german.png](apple-macbook-keyboard-german.png)
 
