@@ -25,6 +25,8 @@ The ["new" Microsoft Remote Desktop **Beta** App for macOS](http://go.microsoft.
 ### Apple Magic Keyboard: `[^]` and `[<]` keys are swapped
 [Here](https://github.com/christian-korneck/win10-keyboard-macbook-german/issues/1#issuecomment-822969832) is a variant of the keyboard layout that swaps these keys back.
 
+### Swiss keyboard layout is different
+Check [Denny Weinberg's fork](https://github.com/DennyWeinberg/win10-keyboard-macbook-german)
 
 ## edit & build
 - open, edit and compile `DeApplMb.klc` with [MS Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=22339)
